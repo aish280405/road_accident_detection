@@ -2,7 +2,5 @@
 __pycache__/
 *.h5
 *.weights.h5
-*.jpg
-*.png
+
 accident_frames/
-data/
